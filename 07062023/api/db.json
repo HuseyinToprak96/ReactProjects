@@ -1,0 +1,296 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "categoryId": 2,
+        "productName": "Chai",     
+        "price":20,
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      
+      },
+      {
+        "id": 2,
+        "categoryId": 1,
+        "price":20,
+        "productName": "Chang",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 4,
+        "categoryId": 1,
+        "price":40,
+        "productName": "Chef Anton's Cajun Seasoning",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 5,
+        "categoryId": 2,
+        "price":50,
+        "productName": "Chef Anton's Gumbo Mix",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 6,
+        "categoryId": 2,
+        "price":70,
+        "productName": "Grandma's Boysenberry Spread",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 7,
+        "categoryId": 7,
+        "price":10,
+        "productName": "Uncle Bob's Organic Dried Pears",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 8,
+        "categoryId": 2,
+        "price":80,
+        "productName": "Northwoods Cranberry Sauce",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 9,
+        "categoryId": 6,
+        "price":20,
+        "productName": "Mishi Kobe Niku",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 10,
+        "categoryId": 8,
+        "price":90,
+        "productName": "Ikura",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 11,
+        "categoryId": 4,
+        "price":100,
+        "productName": "Queso Cabrales",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 12,
+        "categoryId": 4,
+        "price":120,
+        "productName": "Queso Manchego La Pastora",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 13,
+        "categoryId": 8,
+        "price":120,
+        "productName": "Konbu",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 14,
+        "categoryId": 7,
+        "price":60,
+        "productName": "Tofu",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 15,
+        "categoryId": 2,
+        "price":30,
+        "productName": "Genen Shouyu",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 16,
+        "categoryId": 3,
+        "price":20,
+        "productName": "Pavlova",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 17,
+        "categoryId": 6,
+        "price":220,
+        "productName": "Guiza",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 18,
+        "categoryId": 8,
+        "price":20,
+        "productName": "Carnarvon Tigers",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 19,
+        "categoryId": 3,
+        "price":120,
+        "productName": "Teatime Chocolate Biscuits",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 20,
+        "categoryId": 3,
+        "price":420,
+        "productName": "Sir Rodney's Marmalade",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 21,
+        "categoryId": 3,
+        "price":20,
+        "productName": "Sir Rodney's Scones",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 22,
+        "categoryId": 5,
+        "price":20,
+        "productName": "Gustaf's Knäckebröd",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 23,
+        "categoryId": 5,
+        "price":20,
+        "productName": "Tunnbröd",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 24,
+        "categoryId": 1,
+        "price":20,
+        "productName": "Guaraná Fantástica",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 25,
+        "categoryId": 3,
+        "price":20,
+        "productName": "NuNuCa Nuß-Nougat-Creme",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 26,
+        "categoryId": 3,
+        "price":20,
+        "productName": "Gumbär Gummibärchen",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 27,
+        "categoryId": 3,
+        "price":20,
+        "productName": "Schoggi Schokolade",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 28,
+        "categoryId": 7,
+        "price":20,
+        "productName": "Rössle Sauerkraut",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 29,
+        "categoryId": 6,
+        "price":20,
+        "productName": "Thüringer Rostbratwurst",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 30,
+        "categoryId": 8,
+        "price":20,
+        "productName": "Nord-Ost Matjeshering",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 31,
+        "categoryId": 4,
+        "price":20,
+        "productName": "Gorgonzola Telino",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      },
+      {
+        "id": 32,
+        "categoryId": 4,
+        "price":320,
+        "productName": "Mascarpone Fabioli",
+        "image":"images/product.jpg",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+      }  
+     
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "categoryName": "Beverages"
+       
+      },
+      {
+        "id": 2,
+        "categoryName": "Condiments"
+       
+      },
+      {
+        "id": 3,
+        "categoryName": "Confections"
+       
+      },
+      {
+        "id": 4,
+        "categoryName": "Products"
+      
+      },
+      {
+        "id": 5,
+        "categoryName": "Cereals"
+       
+      },
+      {
+        "id": 6,
+        "categoryName": "Poultry"
+       
+      },
+      {
+        "id": 7,
+        "categoryName": "Produce"
+       
+      },
+      {
+        "id": 8,
+        "categoryName": "Seafood"
+       
+      }
+    ]
+  }

@@ -1,0 +1,17 @@
+{
+    "users":[
+        {
+            "id":1,
+            "name":"Hüseyin",
+            "surname":"Toprak",
+            "eposta":"hsyn@gmail.com",
+            "password":"123"
+        }
+    ],
+    "products":[
+        {"id":1,"name":"Kot Pantolon","price":300,"stock":10},
+        {"id":2,"name":"T-shirt","price":200,"stock":10},
+        {"id":3,"name":"Mont","price":800,"stock":5}
+    ],
+    "carts":[]
+}
